@@ -1,5 +1,16 @@
 /*
 
+Questions
+
+https://forum.arduino.cc/t/how-to-create-minimal-web-server-example-with-a-dropdown-menu/1167272
+
+https://arduino.stackexchange.com/questions/94323/how-to-create-minimal-web-server-example-with-a-dropdown-menu
+
+
+
+
+
+
 Based from 
 https://randomnerdtutorials.com/esp8266-web-server
 
